@@ -1,0 +1,1 @@
+-STG which DirectX was for used. (tutorial)
